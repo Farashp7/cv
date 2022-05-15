@@ -1,0 +1,18 @@
+body{
+    background-color: aliceblue;
+}
+.box{
+    box-shadow: 2px 2px 18px rgba(0, 0, 0 ,2);
+}
+.hhh{
+    margin-top: 160px;
+}
+.card-border{
+    box-shadow: 2px 2px 12px rgba(0, 0, 0 ,2);
+    border: 0cm;
+}
+.close{
+    margin: 0px;
+    border: 0px;
+    background-color: white;
+}
